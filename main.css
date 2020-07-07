@@ -125,7 +125,7 @@ li {
 
 .nav-link {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 5rem;
+    font-size: 3rem;
     padding: 1rem;
 }
 
@@ -347,12 +347,12 @@ li {
     margin-top: 2.5rem;
     font-size: 1.5rem;
     text-transform: uppercase;
-    color: #3882ff;
+    color: yellow;
     transition: color 650ms;
 }
 
 .portfolio-description .cta:hover{
-    color: #2f67cd;
+    color: gold;
 }
 
 
